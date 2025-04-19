@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+
+# Media files
+*.mp3
+*.mp4
+
+# System files
+desktop.ini
