@@ -210,13 +210,13 @@ python fall_detection.py --multi_input 0 1 test.mp4
 ### 部分测试结果演示
 
 #### 1. 单人站立检测
-<img src="Test Demo/TEST1.gif" alt="单人站立检测" />
+<img src="Test Demo/TEST1.gif" alt="单人站立检测" width="640"/>
 
 #### 2. 单人行走检测
-<img src="Test Demo/TSET2.gif" alt="单人行走检测" />
+<img src="Test Demo/TEST2.gif" alt="单人行走检测" width="640"/>
 
 #### 3. 单人摔倒检测
-<img src="Test Demo/TEST3.gif" alt="单人摔倒检测" />
+<img src="Test Demo/TEST3.gif" alt="单人摔倒检测" width="640"/>
 
 ### 测试结论
 
